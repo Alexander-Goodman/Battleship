@@ -1,3 +1,3 @@
 Проект «Battleship»
 
-* Выполнил:[Aleksandr Avtukhovich].
+* Выполнил: [Aleksandr Avtukhovich].
