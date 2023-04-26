@@ -1,0 +1,9 @@
+header{
+    border: 1px solid red;
+    
+}
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
